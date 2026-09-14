@@ -1,4 +1,2 @@
-pandas\
+pandas
 matplotlib
-sklearn
-numpy
